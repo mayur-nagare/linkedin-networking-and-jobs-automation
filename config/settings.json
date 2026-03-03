@@ -1,0 +1,38 @@
+{
+  "job_search": {
+    "keywords": [
+      "Senior SDET",
+      "Sr. SDET",
+      "Senior QA",
+      "Sr. QA",
+      "QA",
+      "SDET",
+      "Automationr"
+    ],
+    "location": "Pune, Remote",
+    "date_posted": "r604800",
+    "max_applications_per_run": 15
+  },
+  "networking": {
+    "max_connections_per_run": 100,
+    "location": "Pune, Remote",
+    "hr_keywords": [
+      "Technical Recruiter",
+      "Talent Acquisition",
+      "Hiring",
+      "Recruiter",
+      "People Operations"
+    ],
+    "delay_multiplier": 0.4,
+    "page_wait_ms": 5000,
+    "action_wait_ms": 2500,
+    "quick_wait_ms": 1200
+  },
+  "connection_messages": [
+    "Hi {first_name}, I'm a {your_role} actively exploring new opportunities and would love to connect with you at {company}. Looking forward to staying in touch!",
+    "Hello {first_name}! I came across your profile and was impressed by your work at {company}. As a {your_role} exploring exciting roles, I'd love to connect and learn more about your team.",
+    "Hi {first_name}, hope you're doing well! I'm currently exploring {your_role} opportunities and {company} really stands out to me. Would love to connect and chat if you're open to it!",
+    "Hey {first_name}! I admire {company}'s work and I'm actively looking for {your_role} roles. I'd love to add you to my network and learn more about opportunities there.",
+    "Hi {first_name}, I'm a passionate {your_role} looking for my next challenge. {company} is high on my list \u2014 would love to connect and introduce myself!"
+]
+}
